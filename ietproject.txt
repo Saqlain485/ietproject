@@ -2,3 +2,4 @@ this is git repositry.
 we are learing git.
 working on git local.
 git is very confusing.
+merging same line.
